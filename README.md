@@ -11,8 +11,8 @@ A classic Pong game built using Pygame.
 Clone the repository to your local machine using the command git clone https://github.com/Sewder/MyPongGame.git
 Make sure you have Python 3.x and Pygame installed on your machine. If you don't have Pygame installed, you can install it using pip install pygame.
 Navigate to the root directory of the project in your terminal/command prompt.
-Run the command python main.py to start the game.
-Usage
+Run the command python pong.py to start the game.
+## Usage
 The game is a two-player game, where each player controls a paddle to hit the ball and prevent it from going past their side of the screen. The left paddle is controlled using the W and S keys, and the right paddle is controlled using the up and down arrow keys. The game ends when one player scores 10 points.
 
 ## Gameplay
